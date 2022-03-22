@@ -1,0 +1,20 @@
+body {
+	background-image: url(../img/ht1.jpg) ;
+	background-size: 100%;
+	background-attachment: cover;
+	background-position: cover;
+}
+.container {
+	width: 30%;
+	margin-top: 10%;
+	box-shadow: 0 3px 20px rgba(0, 0, 0, 0.2);
+	padding: 50px;
+	border-radius: 15px;
+	background-color: white;
+}
+button {
+	width: 60%;
+}
+input {
+	width: 10px;
+}

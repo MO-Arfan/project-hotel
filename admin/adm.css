@@ -1,0 +1,9 @@
+body {
+	background-image: url(../img/ht1.jpg) ;
+/*	background: rgb(1,0,19);
+	background: linear-gradient(90deg, rgba(1,0,19,1) 20%, rgba(0,241,255,1) 50%, rgba(1,0,19,1) 80%);
+*/	background-size: cover;
+	background-position: cover;
+	background-attachment: fixed;
+}
+
